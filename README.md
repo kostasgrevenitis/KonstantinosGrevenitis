@@ -1,5 +1,7 @@
 ### Hello world 👋
 
+![Konstantinos Grevenitis logo](https://grevenitis.me/wp-content/uploads/2020/11/konstantinos.grevenitis.logo_.png)
+
 I am a .NET software engineer, with 11 years of experience, and I hold a master’s degree in computational methods and applications.
 
 My focus is on software design, flexible software development, code quality and product management. I also embrace principles of product excellency, collaboration, domain knowledge and innovation.
