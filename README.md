@@ -10,5 +10,5 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kostasgrevenitis)](https://github.com/kostasgrevenitis/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kostasgrevenitis&theme=graywhite&show_icons=true)](https://github.com/kostasgrevenitis)
 
