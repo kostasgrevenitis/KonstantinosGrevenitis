@@ -12,3 +12,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kostasgrevenitis&theme=graywhite&show_icons=true)](https://github.com/kostasgrevenitis)
 
+Logo design by [Giorgos Michalis](https://www.omega-point.net/)
+
