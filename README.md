@@ -16,10 +16,6 @@
 
 ---
 
-![Test](https://hit.yhype.me/github/profile?user_id=2041951)
-
----
-
 <a href="https://github.com/kostasgrevenitis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostasgrevenitis&theme=graywhite&hide_langs_below=1" />
 </a>
