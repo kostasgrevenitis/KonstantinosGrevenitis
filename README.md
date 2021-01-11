@@ -9,14 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kostasgrevenitis&label=Views&color=gray&style=plastic" alt="kostasgrevenitis" /> </p>
 
-<a href="https://twitter.com/grevenitisk">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://linkedin.com/in/konstantinosgrevenitis">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/kostasgrevenitis">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
@@ -36,4 +30,3 @@
 </a>
 
 Logo design by [Giorgos Michalis](https://www.omega-point.net/)
-
