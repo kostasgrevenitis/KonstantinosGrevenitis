@@ -25,7 +25,16 @@ Design by [Giorgos Michalis](https://www.omega-point.net/)
 
 ---
 
-#### Current work
+### Papers
+
+- 📃 [Emotional Agents Make a Bank Run](https://www.researchgate.net/publication/348204430_Emotional_Agents_Make_a_Bank_Run)
+- 📃 [A hybrid framework for industrial data storage and exploitation](https://www.researchgate.net/publication/333987258_A_hybrid_framework_for_industrial_data_storage_and_exploitation)
+- 📃 [Predictive Maintenance Platform Based on Integrated Strategies for Increased Operating Life of Factories](https://www.researchgate.net/publication/327204091_Predictive_Maintenance_Platform_Based_on_Integrated_Strategies_for_Increased_Operating_Life_of_Factories)
+- 📃 [Medical Applications in Everyday Surgical Practice](https://www.researchgate.net/publication/323837515_Medical_Applications_in_Everyday_Surgical_Practice)
+
+---
+
+#### Current activities
 
 - 🔭 I’m currently working on various .NET related projects.
 - 🌱 I speak Greek, English and currently, I am leaning Italian.
@@ -35,11 +44,11 @@ Design by [Giorgos Michalis](https://www.omega-point.net/)
 
 #### Latest posts
 
-- 📃 [Point of view](https://grevenitis.me/2020/12/24/point-of-view/)
-- 📃 [Think don't just execute](https://grevenitis.me/2020/12/13/think-dont-just-execute/)
-- 📃 [Simulate a bank run with emotional responses, with Agent Based Economics](https://grevenitis.me/2020/12/06/simulate-a-bank-run-with-emotional-responses-with-agent-based-economics/)
-- 📃 [C# extension methods to save the day](https://grevenitis.me/2020/11/29/c-extension-methods-to-save-the-day/)
-- 📃 [When the job title fits the personality and not the opposite.](https://grevenitis.me/2020/10/20/when-the-job-title-fits-the-personality-and-not-the-opposite/)
+- 📝 [Point of view](https://grevenitis.me/2020/12/24/point-of-view/)
+- 📝 [Think don't just execute](https://grevenitis.me/2020/12/13/think-dont-just-execute/)
+- 📝 [Simulate a bank run with emotional responses, with Agent Based Economics](https://grevenitis.me/2020/12/06/simulate-a-bank-run-with-emotional-responses-with-agent-based-economics/)
+- 📝 [C# extension methods to save the day](https://grevenitis.me/2020/11/29/c-extension-methods-to-save-the-day/)
+- 📝 [When the job title fits the personality and not the opposite.](https://grevenitis.me/2020/10/20/when-the-job-title-fits-the-personality-and-not-the-opposite/)
 
 ---
 
