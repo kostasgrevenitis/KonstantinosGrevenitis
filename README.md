@@ -28,7 +28,7 @@ Design by [Giorgos Michalis](https://www.omega-point.net/)
 #### Current work
 
 - 🔭 I’m currently working on various .NET related projects.
-- 🌱 I speak Greek :greece: , English :england: and currently, I am leaning Italian :Italy:.
+- 🌱 I speak Greek, English and currently, I am leaning Italian.
 - 💬 Ask me anything.
 
 ---
