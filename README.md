@@ -1,4 +1,7 @@
 ![Konstantinos Grevenitis logo](https://grevenitis.me/wp-content/uploads/2020/11/konstantinos.grevenitis.logo_.png)
+Design by [Giorgos Michalis](https://www.omega-point.net/)
+
+---
 
 ### Hello world 👋
 
@@ -41,5 +44,3 @@
 </a>
 
 ---
-
-Logo design by [Giorgos Michalis](https://www.omega-point.net/)
