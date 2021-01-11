@@ -33,6 +33,16 @@ Design by [Giorgos Michalis](https://www.omega-point.net/)
 
 ---
 
+#### Latest posts
+
+- 📃 [Point of view](https://grevenitis.me/2020/12/24/point-of-view/)
+- 📃 [Think don't just execute](https://grevenitis.me/2020/12/13/think-dont-just-execute/)
+- 📃 [Simulate a bank run with emotional responses, with Agent Based Economics](https://grevenitis.me/2020/12/06/simulate-a-bank-run-with-emotional-responses-with-agent-based-economics/)
+- 📃 [C# extension methods to save the day](https://grevenitis.me/2020/11/29/c-extension-methods-to-save-the-day/)
+- 📃 [When the job title fits the personality and not the opposite.](https://grevenitis.me/2020/10/20/when-the-job-title-fits-the-personality-and-not-the-opposite/)
+
+---
+
 #### Stats
 
 <a href="https://github.com/kostasgrevenitis">
