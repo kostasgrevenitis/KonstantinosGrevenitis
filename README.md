@@ -4,7 +4,7 @@
 
 #### About me
 
-- ⚡ I am a .NET software engineer
+- ⚡ .NET software engineer
 - ⚡ 11 years of experience
 - ⚡ I hold a master’s degree in computational methods and applications.
 - ⚡ My focus is on software design, requirement analysis, flexible software development, code quality and product management. 
