@@ -13,11 +13,7 @@
 
 ---
 
-![Konstantinos Grevenitis statistics](https://hit.yhype.me/github/profile?user_id=2041951)
-
-<a href="https://linkedin.com/in/konstantinosgrevenitis">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+![](https://hit.yhype.me/github/profile?user_id=2041951)
 
 ---
 
