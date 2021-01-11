@@ -25,4 +25,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kostasgrevenitis&show_icons=true&theme=graywhite&line_height=27" alt="Kostantinos's github stats"/>
 </a>
 ---
+
 Logo design by [Giorgos Michalis](https://www.omega-point.net/)
