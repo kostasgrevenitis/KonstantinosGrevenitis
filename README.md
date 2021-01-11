@@ -12,6 +12,16 @@
 
 ---
 
+#### Where to find me
+
+- 🔗 [Blog](https://grevenitis.me/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/konstantinosgrevenitis/)
+- 🔗 [Twitter](https://twitter.com/grevenitisk)
+- 🔗 [Research gate](https://www.researchgate.net/profile/Konstantinos_Grevenitis)
+-	📫 konstantinos.grevenitis@gmail.com
+
+---
+
 #### Current work
 
 - 🔭 I’m currently working on various .NET related projects.
