@@ -1,4 +1,6 @@
-![Konstantinos Grevenitis logo](https://grevenitis.me/wp-content/uploads/2020/11/konstantinos.grevenitis.logo_.png)
+<img src="https://grevenitis.me/wp-content/uploads/2020/11/konstantinos.grevenitis.logo_.png" alt="Konstantinos Grevenitis logo" width="300">
+<br/>
+
 Design by [Giorgos Michalis](https://www.omega-point.net/)
 
 ---
