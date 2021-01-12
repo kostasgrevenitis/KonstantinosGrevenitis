@@ -24,7 +24,7 @@
 
 ---
 
-### Papers
+#### Papers
 
 - 📃 [Emotional Agents Make a Bank Run](https://www.researchgate.net/publication/348204430_Emotional_Agents_Make_a_Bank_Run)
 - 📃 [A hybrid framework for industrial data storage and exploitation](https://www.researchgate.net/publication/333987258_A_hybrid_framework_for_industrial_data_storage_and_exploitation)
