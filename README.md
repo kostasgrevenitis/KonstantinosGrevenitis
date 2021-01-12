@@ -1,7 +1,13 @@
-<img src="https://grevenitis.me/wp-content/uploads/2020/11/konstantinos.grevenitis.logo_.png" alt="Konstantinos Grevenitis logo" width="300">
-<br/>
+<p align="center">
+<img src="https://grevenitis.me/wp-content/uploads/2020/11/konstantinos.grevenitis.logo_.png" alt="Konstantinos Grevenitis logo" width="400">
+  
+  <br/>
+  
+  Design by [Giorgos Michalis](https://www.omega-point.net/)
+</p>
 
-Design by [Giorgos Michalis](https://www.omega-point.net/)
+
+
 
 ---
 
