@@ -6,11 +6,6 @@
   Design by [Giorgos Michalis](https://www.omega-point.net/)
 </p>
 
-
-
-
----
-
 ### Hello world 👋
 
 #### About me
