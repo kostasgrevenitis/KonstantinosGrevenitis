@@ -36,7 +36,7 @@
 #### Current activities
 
 - 🔭 I’m currently working on various .NET related projects.
-- 🌱 I speak Greek, English and currently I am leaning Italian.
+- 🌱 I speak Greek, English and currently I am learning Italian.
 - 💬 Ask me anything.
 
 ---
