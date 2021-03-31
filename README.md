@@ -35,7 +35,8 @@
 
 #### Current activities
 
-- 🔭 I’m currently working on various .NET related projects.
+- 👨‍💻 I currently work as as IT solutions architect for <a href="http://holonix.it/">Holonix Slr</a>. 
+- 🔭 I’m try too keep up developing my .NET projects.
 - 🌱 I speak Greek, English and currently I am learning Italian.
 - 💬 Ask me anything.
 
